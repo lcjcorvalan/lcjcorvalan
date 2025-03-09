@@ -1,7 +1,7 @@
 ## Me. Leonardo C. J. Corvalan 🧬
 
 🌳 Forest engineer\
-🧬 Master's degree in Genetics and Molecular Biology
+🧬 Master's degree in Genetics and Molecular Biology\
 💻 currently Ph.D studant Genetics and Molecular Biology
 
 I am a Forest Engineer with a Master’s degree in Genetics and Molecular Biology from the Federal University of Goiás (UFG), Brazil. Currently, I am pursuing a Ph.D. in Genetics and Molecular Biology at UFG, with a research internship at the Florida Museum of Natural History, University of Florida.
